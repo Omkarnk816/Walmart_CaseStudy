@@ -33,8 +33,8 @@ Walmart's story is far from over. As the retail landscape continues to evolve, t
 * They want to understand if the spending habits differ between male and female customers: Do women spend more on Black Friday than men? (Assume 50 million customers are male and 50 million are female).
 
 ## 📝 Case Report
-- You can access the complete Case python file here - [Python]
-- You can access the complete Casestudy in pdf format here - [Report]
+- You can access the complete Case python file here - [Python](https://github.com/Omkarnk816/Walmart_CaseStudy/blob/main/walmart_case_study_report.ipynb)
+- You can access the complete Casestudy in pdf format here - [Report](https://github.com/Omkarnk816/Walmart_CaseStudy/blob/main/walmart_case_study_report.pdf)
 
 #### 👀 About Data
 
